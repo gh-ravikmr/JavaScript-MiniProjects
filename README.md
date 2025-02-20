@@ -1,9 +1,9 @@
 <h3>JavaScript MiniProjects</h3>
-<li>
-  <ul>
+<ul>
+  <li>
     Tic Tak Toe
-  </ul>
-  <ul>
+  </li>
+  <li>
     Stone Paper Scissors
-  </ul>
-</li>
+  </li>
+</ul>
