@@ -3,7 +3,7 @@
   <li>
     Tic Tak Toe
   </li>
-  <br>
+  
   <li>
     Stone Paper Scissors
   </li>
